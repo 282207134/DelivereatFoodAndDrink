@@ -1,0 +1,5 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/DelivereatFoodAndDrink/test/app_state_test.dart
+00:00 +0: delivery updates the selected order and distance filters use catalog data
+00:00 +1: cart arithmetic, discounts and immutable order snapshot
+00:00 +2: profile, favorites, cart, addresses and order survive reload
+00:00 +3: All tests passed!

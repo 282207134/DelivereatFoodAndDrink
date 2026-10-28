@@ -1,0 +1,194 @@
+INFO         | Android emulator version 35.3.11.0 (build_id 12836668) (CL:N/A)
+INFO         | Graphics backend: gfxstream
+INFO         | Found systemPath C:\Users\liuyu\AppData\Local\Android\Sdk\system-images\android-35\google_apis_playstore\x86_64\
+I1028 19:12:32.671645   39624 opengles.cpp:285] android_startOpenglesRenderer: gpu info
+I1028 19:12:32.672133   39624 opengles.cpp:286] GPU #1
+  Make: 10de
+  Model: NVIDIA GeForce RTX 4060 Laptop GPU
+  Device ID: 28e0
+
+INFO         | Increasing RAM size to 2048MB
+INFO         | IPv4 server found: 223.5.5.5
+INFO         | Ignore IPv6 address: 201d:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 201d:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 201d:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 1023:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 1023:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 1023:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 683a:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 683a:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 683a:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 9040:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 9040:4d02::a016:4d02:0:0
+INFO         | Ignore IPv6 address: 9040:4d02::a016:4d02:0:0
+INFO         | Checking system compatibility:
+INFO         |   Checking: hasSufficientDiskSpace
+INFO         |      Ok: Disk space requirements to run avd: `arzo_review` are met.
+INFO         |   Checking: hasSufficientHwGpu
+INFO         |      Ok: Hardware GPU requirements to run avd: `arzo_review` are passed.
+INFO         |   Checking: hasSufficientSystem
+INFO         |      Ok: System requirements to run avd: `arzo_review` are met.
+INFO         | Storing crashdata in: C:\Users\liuyu\AppData\Local\Temp\\AndroidEmulator\emu-crash-35.3.11.db, detection is enabled for process: 30696
+library_mode swiftshader_indirect gpu mode swiftshader_indirect
+INFO         | Initializing hardware OpenGLES emulation support
+INFO         | HealthMonitor disabled.
+INFO         | initIcdPaths: ICD set to 'swiftshader', using Swiftshader ICD
+INFO         | Setting ICD filenames for the loader = C:\Users\liuyu\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\lib64\vulkan\vk_swiftshader_icd.json;C:\Users\liuyu\AppData\Local\Android\Sdk\emulator\lib64\vulkan\vk_swiftshader_icd.json
+INFO         | SharedLibrary::open for [vulkan-1.dll]
+
+INFO         | SharedLibrary::open for [vulkan-1.dll]: not found in map, open for the first time
+
+INFO         | SharedLibrary::open for [vulkan-1.dll] (win32): call LoadLibraryA
+
+INFO         | SharedLibrary::open succeeded for [vulkan-1.dll]. File name: [C:\WINDOWS\SYSTEM32\vulkan-1.dll]
+
+INFO         | Added library: vulkan-1.dll
+INFO         | Selecting Vulkan device: NVIDIA GeForce RTX 4060 Laptop GPU, Version: 1.4.351
+INFO         | Supports id properties, got a vulkan device UUID
+INFO         | SharedLibrary::open for [libGLESv2.dll]: not found in map, open for the first time
+
+INFO         | SharedLibrary::open for [libGLESv2.dll] (win32): call LoadLibraryA
+
+INFO         | SharedLibrary::open succeeded for [libGLESv2.dll]. File name: [C:\Users\liuyu\AppData\Local\Android\Sdk\emulator\lib64\gles_swiftshader\libGLESv2.dll]
+
+INFO         | SharedLibrary::open for [libEGL.dll]: not found in map, open for the first time
+
+INFO         | SharedLibrary::open for [libEGL.dll] (win32): call LoadLibraryA
+
+INFO         | SharedLibrary::open succeeded for [libEGL.dll]. File name: [C:\Users\liuyu\AppData\Local\Android\Sdk\emulator\lib64\gles_swiftshader\libEGL.dll]
+
+INFO         | Initializing VkEmulation features:
+INFO         |     glInteropSupported: false
+INFO         |     useDeferredCommands: true
+INFO         |     createResourceWithRequirements: true
+INFO         |     useVulkanComposition: false
+INFO         |     useVulkanNativeSwapchain: false
+INFO         |     enable guestRenderDoc: false
+INFO         |     ASTC LDR emulation mode: 2
+INFO         |     enable ETC2 emulation: true
+INFO         |     enable Ycbcr emulation: false
+INFO         |     guestVulkanOnly: false
+INFO         |     useDedicatedAllocations: false
+INFO         | Graphics Adapter Vendor Google (Google Inc.)
+INFO         | Graphics Adapter Android Emulator OpenGL ES Translator (Google SwiftShader)
+INFO         | Graphics API Version OpenGL ES 3.0 (OpenGL ES 3.0 SwiftShader 4.0.0.1)
+INFO         | Graphics API Extensions GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_standard_derivatives GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888 
+INFO         | Graphics Device Extensions N/A
+INFO         | Sending adb public key [QAAAAJf8vuvZvOut1I2nnRlU5/G5lH9NMZPD62yMYM9VJGTUbyayXYqgONvmub5Sof6EaDGFGd+RddxvucFDoT+LwkSNd5or/0oKxPFLV3tK2fc1N3dBT5KhC2m5nuLVidySjmYJwOyggBIWil8mBgsfPN/BpJkYodsYqA9+bwvTFoT/2CWVtYlNoaQkSJE30mO7pzcsgXF9EFKYPlE13j2eKC+T2ikWjXIJLZULaPm0xpOA2lqhjNiaIj742ikKi/7SfR46WghJuXogfNYeoNOWe2mh5n4rPYCgYWKURIIBYQqoILRCNLfrAO8jOOpjDrQ79m2cNhnrTstRbWqQPSnv7TM5F77mnDHlSMsGhvYHFrQmapsyDtUB+rGnl5+pd0z1/ByV8rPnz7E9DBmHx1Ml21CehnWEtj7SCfp3KH8YPIA3Shs6L7H76LQPtkCL7YfjcCTPFJBNUWMqBUlnS9jzIu86CPLkrwJZcpCTIzyEnJoS5fIZANKvDiUC1KIfNlndCIux/tXNzCGY1QpgXnDh7KQXMS5onLTrTxa2UpGf3+0vR/rvyHwnV9fDzK8/vdRN5Fza5pMHJeJ1oAM8VxduU2nECLlEs+J8fjYCXUQWA34tvzSfmPYjvD+6+qILr/cgJRRbnuMMt37usLNG/RTub9OkZpzFXu159SGvbvY3YazjanVsnAEAAQA= @unknown]
+WHPX on Windows 10.0.26200 detected.
+Windows Hypervisor Platform accelerator is operational
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 0]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 2]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 3]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 4]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 5]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 6]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 7]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 8]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 9]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 13]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 15]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 16]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 23]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 24]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 0]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 2]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 3]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 4]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 5]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 6]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 7]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 8]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 9]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 13]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 15]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 16]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 23]
+host doesn't support requested feature: CPUID.80000001H:EDX [bit 24]
+INFO         | Monitoring duration of emulator setup.
+WARNING      | The emulator now requires a signed jwt token for gRPC access! Use the -grpc flag if you really want an open unprotected grpc port
+INFO         | Using security allow list from: C:\Users\liuyu\AppData\Local\Android\Sdk\emulator\lib\emulator_access.json
+WARNING      | *** Basic token auth should only be used by android-studio ***
+INFO         | The active JSON Web Key Sets can be found here: C:\Users\liuyu\AppData\Local\Temp\avd\running\30696\jwks\e87844e3-6700-40f0-a33b-604237f78b9b\active.jwk
+INFO         | Scanning C:\Users\liuyu\AppData\Local\Temp\avd\running\30696\jwks\e87844e3-6700-40f0-a33b-604237f78b9b for jwk keys.
+INFO         | Started GRPC server at 127.0.0.1:8554, security: Local, auth: +token
+INFO         | Advertising in: C:\Users\liuyu\AppData\Local\Temp\avd\running\pid_30696.ini
+INFO         | Setting display: 0 configuration to: 1080x2400, dpi: 420x420 
+INFO         | setDisplayActiveConfig 0
+USER_INFO    | Emulator is performing a full startup. This may take upto two minutes, or more.
+INFO         | OpenGL Vendor=[Google (Google Inc.)]
+INFO         | OpenGL Renderer=[Android Emulator OpenGL ES Translator (Google SwiftShader)]
+INFO         | OpenGL Version=[OpenGL ES 3.0 (OpenGL ES 3.0 SwiftShader 4.0.0.1)]
+netsimd I 10-28 10:12:34.967 daemon\src\rust_main.rs:98 - netsim artifacts path: "C:\\Users\\liuyu\\AppData\\Local\\Temp\\netsimd"
+netsimd I 10-28 10:12:34.967 daemon\src\rust_main.rs:101 - NetsimdArgs {
+    fd_startup_str: None,
+    no_cli_ui: true,
+    no_web_ui: true,
+    pcap: false,
+    disable_address_reuse: false,
+    hci_port: None,
+    connector_instance: None,
+    instance: None,
+    logtostderr: false,
+    dev: false,
+    rust_grpc: false,
+    rust_hostapd: true,
+    rust_slirp: false,
+    forward_host_mdns: false,
+    vsock: None,
+    config: None,
+    host_dns: Some(
+        "223.5.5.5",
+    ),
+    http_proxy: None,
+    wifi_tap: None,
+    test_beacons: false,
+    no_test_beacons: false,
+    no_shutdown: false,
+    verbose: false,
+    version: false,
+}
+INFO         | Activated packet streamer for bluetooth emulation
+INFO         | Boot completed in 106491 ms
+INFO         | Increasing screen off timeout, logcat buffer size to 2M.
+INFO         | IPv4 server found: 223.5.5.5
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | IPv4 server found: 223.5.5.5
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | IPv4 server found: 223.5.5.5
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 10b1:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: b7:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 58ce:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+INFO         | Ignore IPv6 address: 80d4:1d60:100:0:90aa:1d60:100:0
+C:/buildbot/src/android/emu-35-3-release/hardware/google/gfxstream/host/gl/glestranslator/GLES_V2/GLESv30Imp.cpp:glWaitSync:538 error 0x501
+C:/buildbot/src/android/emu-35-3-release/hardware/google/gfxstream/host/gl/glestranslator/GLES_V2/GLESv30Imp.cpp:glWaitSync:538 error 0x501

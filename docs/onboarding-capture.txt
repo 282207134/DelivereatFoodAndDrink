@@ -1,0 +1,42 @@
+Resolving dependencies...
+Downloading packages...
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  shared_preferences_foundation 2.5.7 (2.6.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Running Gradle task 'assembleDebug'...                             24.4s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...        2,354ms
+D/FlutterRenderer(10694): Width is zero. 0,0
+W/HWUI    (10694): Failed to initialize 101010-2 format, error = EGL_SUCCESS
+D/FlutterJNI(10694): Sending viewport metrics to the engine.
+I/Gralloc4(10694): mapper 4.x is not supported
+I/reat.delivereat(10694): Compiler allocated 5174KB to compile void android.view.ViewRootImpl.performTraversals()
+I/reat.delivereat(10694): Compiler allocated 5417KB to compile void android.view.ViewRootImpl.performTraversals()
+I/Choreographer(10694): Skipped 58 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI(10694): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:51693/2NnfDXSDWUE=/
+VMServiceFlutterDriver: Isolate found with number: 5588832128213331
+VMServiceFlutterDriver: Isolate 5588832128213331 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter (10694): 00:00 +0: capture every Pixso screen on Android
+VMServiceFlutterDriver: Connected to Flutter application.
+I/Choreographer(10694): Skipped 35 frames!  The application may be doing too much work on its main thread.
+D/ProfileInstaller(10694): Installing profile for com.delivereat.delivereat
+I/Choreographer(10694): Skipped 90 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI(10694): Sending viewport metrics to the engine.
+D/EGL_emulation(10694): app_time_stats: avg=1330.89ms min=1288.70ms max=1373.09ms count=2
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+D/EGL_emulation(10694): app_time_stats: avg=319.57ms min=143.52ms max=620.84ms count=5
+D/EGL_emulation(10694): app_time_stats: avg=254.04ms min=53.45ms max=657.20ms count=4
+D/EGL_emulation(10694): app_time_stats: avg=1421.01ms min=1421.01ms max=1421.01ms count=1
+D/EGL_emulation(10694): app_time_stats: avg=278.68ms min=70.22ms max=664.21ms count=5
+D/EGL_emulation(10694): app_time_stats: avg=1403.52ms min=1403.52ms max=1403.52ms count=1
+I/flutter (10694): 00:08 +1: (tearDownAll)
+I/flutter (10694): 00:08 +2: All tests passed!
+All tests passed.

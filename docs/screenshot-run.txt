@@ -1,0 +1,161 @@
+Resolving dependencies...
+Downloading packages...
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  shared_preferences_foundation 2.5.7 (2.6.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Running Gradle task 'assembleDebug'...                             20.0s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...        2,203ms
+I/Gralloc4(10219): mapper 4.x is not supported
+I/reat.delivereat(10219): Compiler allocated 5174KB to compile void android.view.ViewRootImpl.performTraversals()
+I/reat.delivereat(10219): Compiler allocated 5417KB to compile void android.view.ViewRootImpl.performTraversals()
+I/Choreographer(10219): Skipped 81 frames!  The application may be doing too much work on its main thread.
+D/ProfileInstaller(10219): Installing profile for com.delivereat.delivereat
+D/FlutterJNI(10219): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:63193/nWZVhZrnISQ=/
+VMServiceFlutterDriver: Isolate found with number: 8512816336894239
+VMServiceFlutterDriver: Isolate 8512816336894239 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter (10219): 00:00 +0: capture every Pixso screen on Android
+VMServiceFlutterDriver: Connected to Flutter application.
+I/Choreographer(10219): Skipped 57 frames!  The application may be doing too much work on its main thread.
+I/Choreographer(10219): Skipped 36 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI(10219): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+D/EGL_emulation(10219): app_time_stats: avg=2324.80ms min=1398.04ms max=3251.57ms count=2
+D/EGL_emulation(10219): app_time_stats: avg=296.08ms min=106.62ms max=672.55ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=262.20ms min=83.73ms max=674.92ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1315.20ms min=1315.20ms max=1315.20ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=299.43ms min=64.39ms max=685.80ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1499.75ms min=1499.75ms max=1499.75ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=271.38ms min=55.69ms max=654.07ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1383.36ms min=1383.36ms max=1383.36ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=1526.23ms min=1526.23ms max=1526.23ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=316.73ms min=128.79ms max=692.18ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1114.57ms min=1114.57ms max=1114.57ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=2115.67ms min=2115.67ms max=2115.67ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=387.00ms min=44.44ms max=980.06ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1969.23ms min=1969.23ms max=1969.23ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=511.20ms min=50.62ms max=1583.28ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=252.48ms min=68.04ms max=651.53ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=2572.05ms min=2572.05ms max=2572.05ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=321.37ms min=84.20ms max=648.36ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1613.44ms min=1613.44ms max=1613.44ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=341.87ms min=63.75ms max=815.15ms count=3
+D/EGL_emulation(10219): app_time_stats: avg=1808.37ms min=1808.37ms max=1808.37ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=703.29ms min=137.03ms max=1327.82ms count=3
+D/EGL_emulation(10219): app_time_stats: avg=252.00ms min=56.84ms max=684.71ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=2341.08ms min=2341.08ms max=2341.08ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=416.27ms min=231.18ms max=700.01ms count=3
+D/EGL_emulation(10219): app_time_stats: avg=2023.65ms min=2023.65ms max=2023.65ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=329.74ms min=120.42ms max=655.80ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1449.46ms min=1449.46ms max=1449.46ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=277.13ms min=103.56ms max=607.22ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=250.25ms min=68.03ms max=657.72ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1211.54ms min=1211.54ms max=1211.54ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=255.44ms min=100.09ms max=652.91ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1276.93ms min=1276.93ms max=1276.93ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=244.78ms min=80.15ms max=621.01ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1231.22ms min=1231.22ms max=1231.22ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=1420.78ms min=1420.78ms max=1420.78ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=288.85ms min=132.59ms max=660.54ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1045.56ms min=1045.56ms max=1045.56ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=1095.43ms min=1095.43ms max=1095.43ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=235.46ms min=12.94ms max=661.83ms count=7
+D/EGL_emulation(10219): app_time_stats: avg=1610.59ms min=1610.59ms max=1610.59ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/WindowOnBackDispatcher(10219): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher(10219): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation(10219): app_time_stats: avg=369.83ms min=133.54ms max=796.51ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1669.79ms min=1669.79ms max=1669.79ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=201.54ms min=87.04ms max=649.59ms count=7
+D/EGL_emulation(10219): app_time_stats: avg=1239.31ms min=1239.31ms max=1239.31ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=310.56ms min=112.81ms max=667.43ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1542.55ms min=1542.55ms max=1542.55ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=263.20ms min=139.47ms max=639.07ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1313.54ms min=1313.54ms max=1313.54ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=265.04ms min=134.16ms max=640.41ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1332.79ms min=1332.79ms max=1332.79ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=1309.72ms min=1309.72ms max=1309.72ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=276.88ms min=90.31ms max=579.05ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1257.01ms min=1257.01ms max=1257.01ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=238.85ms min=103.58ms max=693.34ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=247.97ms min=61.31ms max=641.35ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1252.14ms min=1252.14ms max=1252.14ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=240.31ms min=86.78ms max=641.67ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1192.60ms min=1192.60ms max=1192.60ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=305.72ms min=130.40ms max=643.84ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1532.08ms min=1532.08ms max=1532.08ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=259.31ms min=98.45ms max=662.10ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1308.25ms min=1308.25ms max=1308.25ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=248.35ms min=78.85ms max=629.57ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1238.83ms min=1238.83ms max=1238.83ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=238.17ms min=61.71ms max=631.11ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1191.34ms min=1191.34ms max=1191.34ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=246.83ms min=72.75ms max=644.01ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1233.16ms min=1233.16ms max=1233.16ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=240.04ms min=82.11ms max=619.34ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1208.35ms min=1208.35ms max=1208.35ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=1285.16ms min=1285.16ms max=1285.16ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=259.09ms min=86.66ms max=647.46ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=249.91ms min=98.19ms max=659.66ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1263.98ms min=1263.98ms max=1263.98ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=261.87ms min=124.88ms max=661.53ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1313.53ms min=1313.53ms max=1313.53ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/WindowOnBackDispatcher(10219): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher(10219): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation(10219): app_time_stats: avg=187.49ms min=101.82ms max=308.27ms count=6
+D/EGL_emulation(10219): app_time_stats: avg=1672.07ms min=1672.07ms max=1672.07ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=221.83ms min=73.35ms max=639.04ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1220.52ms min=1220.52ms max=1220.52ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=695.12ms min=659.70ms max=730.54ms count=2
+D/EGL_emulation(10219): app_time_stats: avg=254.63ms min=47.22ms max=652.11ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1741.74ms min=1741.74ms max=1741.74ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=264.12ms min=122.24ms max=662.50ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1356.27ms min=1356.27ms max=1356.27ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=126.50ms min=26.06ms max=356.68ms count=9
+I/reat.delivereat(10219): NativeAlloc concurrent mark compact GC freed 240KB AllocSpace bytes, 15(1652KB) LOS objects, 49% free, 2652KB/5304KB, paused 1.058ms,5.249ms total 17.713ms
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=964.80ms min=672.22ms max=1257.38ms count=2
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=356.96ms min=175.65ms max=649.20ms count=3
+D/EGL_emulation(10219): app_time_stats: avg=1231.41ms min=1231.41ms max=1231.41ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=239.20ms min=32.35ms max=631.28ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=265.44ms min=113.96ms max=651.45ms count=4
+D/EGL_emulation(10219): app_time_stats: avg=1283.27ms min=1283.27ms max=1283.27ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=254.05ms min=109.90ms max=649.68ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1275.00ms min=1275.00ms max=1275.00ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=1278.38ms min=1278.38ms max=1278.38ms count=1
+D/EGL_emulation(10219): app_time_stats: avg=270.45ms min=87.46ms max=629.80ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=250.27ms min=124.72ms max=645.11ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1322.62ms min=1322.62ms max=1322.62ms count=1
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/reat.delivereat(10219): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation(10219): app_time_stats: avg=239.40ms min=61.48ms max=633.65ms count=5
+D/EGL_emulation(10219): app_time_stats: avg=1208.43ms min=1208.43ms max=1208.43ms count=1
+I/flutter (10219): 01:14 +1: (tearDownAll)
+I/flutter (10219): 01:18 +2: All tests passed!
+All tests passed.
